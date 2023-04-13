@@ -1,0 +1,12 @@
+{
+  "name": "xdgbasedir",
+  "url" : "https://github.com/sys9kdr/xdgbasedir",
+  "license": "MIT",
+  "tags": ["haxe", "cross"],
+  "description": "Get XDG Base Directory paths",
+  "version": "0.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["sys9kdr"],
+  "dependencies": {}
+}
