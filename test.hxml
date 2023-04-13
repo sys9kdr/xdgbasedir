@@ -1,0 +1,7 @@
+-cp test
+-cp src
+-main Test.hx
+#-lib hxnodejs
+-lib utest
+#-js ./test/test.js
+--interp
